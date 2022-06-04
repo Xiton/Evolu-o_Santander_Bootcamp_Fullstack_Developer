@@ -1,0 +1,3 @@
+Tive 1 erro ao dar o comando git status dizendo que não tinha o .git, resolvi com o comando git init na raiz
+
+$ git commit -m "Inclusão das anotações do curso e mais"
