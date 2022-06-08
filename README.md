@@ -5,4 +5,4 @@ Registro dos meus passos dentro do treinamento neste Bootcamp da DIO
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## Etapas
-# FlexBox
+# FlexBox concluido (inclusive prova)
